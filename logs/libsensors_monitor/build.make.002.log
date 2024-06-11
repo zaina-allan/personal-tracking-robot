@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target libsensors_monitor[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/libsensors_monitor.dir/src/libsensors_monitor.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/libsensors_monitor.dir/src/libsensors_chip.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/zaina/catkin_ws/devel/.private/libsensors_monitor/lib/libsensors_monitor/libsensors_monitor[0m
+[100%] Built target libsensors_monitor

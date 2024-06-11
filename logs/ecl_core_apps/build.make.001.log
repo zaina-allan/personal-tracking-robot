@@ -1,0 +1,17 @@
+[  5%] Built target bench_exceptions
+[ 11%] Built target bench_streams
+[ 17%] Built target bench_containers
+[ 23%] Built target bench_files
+[ 29%] Built target bench_eigen3_inverse
+[ 35%] Built target bench_string_conversions
+[ 41%] Built target bench_flops
+[ 47%] Built target bench_snooze
+[ 52%] Built target bench_eigen3_decompositions
+[ 58%] Built target bench_eigen3_transforms
+[ 64%] Built target ecl_hex
+[ 70%] Built target ecl_process_statistics
+[ 76%] Built target ecl_socket_server
+[ 82%] Built target ecl_serial
+[ 88%] Built target ecl_yaw2quaternion
+[ 94%] Built target ecl_quaternion2yaw
+[100%] Built target ecl_socket_client

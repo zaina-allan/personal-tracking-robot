@@ -1,0 +1,2 @@
+linux_peripheral_interfaces/linux_peripheral_interfaces
+/home/zaina/catkin_ws/devel/.private/linux_peripheral_interfaces/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

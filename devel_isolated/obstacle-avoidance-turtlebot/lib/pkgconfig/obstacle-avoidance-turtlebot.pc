@@ -1,0 +1,8 @@
+prefix=/home/zaina/catkin_ws/devel_isolated/obstacle-avoidance-turtlebot
+
+Name: obstacle-avoidance-turtlebot
+Description: Description of obstacle-avoidance-turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

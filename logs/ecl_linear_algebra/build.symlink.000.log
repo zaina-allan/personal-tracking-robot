@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_linear_algebra/cmake/ecl_linear_algebraConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_linear_algebra/cmake/ecl_linear_algebraConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_linear_algebra.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_linear_algebra.pc

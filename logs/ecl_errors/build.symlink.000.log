@@ -1,0 +1,5 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_errors/cmake/ecl_errorsConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_errors/cmake/ecl_errorsConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_errors.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_errors.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_errors/ecl_demo_errors

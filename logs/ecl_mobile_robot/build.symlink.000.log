@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_mobile_robot/cmake/ecl_mobile_robotConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_mobile_robot/cmake/ecl_mobile_robotConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_mobile_robot.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_mobile_robot.pc

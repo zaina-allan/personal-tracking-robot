@@ -1,0 +1,2 @@
+kobuki_desktop/kobuki_desktop
+/home/zaina/catkin_ws/devel/.private/kobuki_desktop/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

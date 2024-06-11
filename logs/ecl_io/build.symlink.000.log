@@ -1,0 +1,7 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_io/cmake/ecl_ioConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_io/cmake/ecl_ioConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_io.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_io.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_io/ecl_demo_socketpair
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_io/ecl_demo_sockets
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_io/ecl_demo_poll

@@ -1,0 +1,50 @@
+[0.009s] Invoking command in '/home/zaina/catkin_ws/build/usb_cam': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8
+[0.065s] [ 50%] Built target usb_cam
+[0.085s] [ 75%] [32mBuilding CXX object CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o[0m
+[2.343s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:[m[K In constructor ‘[01m[Kusb_cam::UsbCamNode::UsbCamNode()[m[K’:
+[2.344s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:156:34:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kusb_cam::UsbCam::start(const char*, usb_cam::utils::io_method_t&, std::string&, int&, int&, int&)[m[K’
+[2.344s]   156 |       m_image_height, m_framerate[01;31m[K)[m[K;
+[2.344s]       |                                  [01;31m[K^[m[K
+[2.344s] In file included from [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:36[m[K:
+[2.344s] [01m[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid usb_cam::UsbCam::start()[m[K’
+[2.344s]   180 |   void [01;36m[Kstart[m[K();
+[2.344s]       |        [01;36m[K^~~~~[m[K
+[2.344s] [01m[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 6 provided
+[2.346s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:[m[K In member function ‘[01m[Kbool usb_cam::UsbCamNode::take_and_send_image()[m[K’:
+[2.346s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:172:43:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstamp[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.346s]   172 |     m_image.header.stamp.sec = new_image->[01;31m[Kstamp[m[K.tv_sec;
+[2.346s]       |                                           [01;31m[K^~~~~[m[K
+[2.346s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:173:44:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstamp[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.346s]   173 |     m_image.header.stamp.nsec = new_image->[01;31m[Kstamp[m[K.tv_nsec;
+[2.346s]       |                                            [01;31m[K^~~~~[m[K
+[2.346s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:63:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.346s]   176 |     if (m_image.data.size() != static_cast<size_t>(new_image->[01;31m[Kstep[m[K * new_image->height)) {
+[2.346s]       |                                                               [01;31m[K^~~~[m[K
+[2.347s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:81:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.347s]   176 |     if (m_image.data.size() != static_cast<size_t>(new_image->step * new_image->[01;31m[Kheight[m[K)) {
+[2.347s]       |                                                                                 [01;31m[K^~~~~~[m[K
+[2.347s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:177:34:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kwidth[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.347s]   177 |       m_image.width = new_image->[01;31m[Kwidth[m[K;
+[2.347s]       |                                  [01;31m[K^~~~~[m[K
+[2.347s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:178:35:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.347s]   178 |       m_image.height = new_image->[01;31m[Kheight[m[K;
+[2.347s]       |                                   [01;31m[K^~~~~~[m[K
+[2.347s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:179:37:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kencoding[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.347s]   179 |       m_image.encoding = new_image->[01;31m[Kencoding[m[K;
+[2.347s]       |                                     [01;31m[K^~~~~~~~[m[K
+[2.348s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:180:33:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.348s]   180 |       m_image.step = new_image->[01;31m[Kstep[m[K;
+[2.348s]       |                                 [01;31m[K^~~~[m[K
+[2.348s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:38:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.348s]   181 |       m_image.data.resize(new_image->[01;31m[Kstep[m[K * new_image->height);
+[2.348s]       |                                      [01;31m[K^~~~[m[K
+[2.348s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:56:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.348s]   181 |       m_image.data.resize(new_image->step * new_image->[01;31m[Kheight[m[K);
+[2.348s]       |                                                        [01;31m[K^~~~~~[m[K
+[2.348s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:185:41:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kimage[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[2.348s]   185 |     memcpy(&m_image.data[0], new_image->[01;31m[Kimage[m[K, m_image.data.size());
+[2.348s]       |                                         [01;31m[K^~~~~[m[K
+[2.979s] make[2]: *** [CMakeFiles/usb_cam_node.dir/build.make:63: CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o] Error 1
+[2.980s] make[1]: *** [CMakeFiles/Makefile2:739: CMakeFiles/usb_cam_node.dir/all] Error 2
+[2.980s] make: *** [Makefile:141: all] Error 2
+[2.983s] Invoked command in '/home/zaina/catkin_ws/build/usb_cam' returned '2': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8

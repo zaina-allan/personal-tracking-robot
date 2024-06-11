@@ -1,0 +1,10 @@
+Symlinking /home/zaina/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libkobuki.so
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_sigslots
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_simple_loop
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/simple_keyop
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_initialisation
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/version_info
+Symlinking /home/zaina/catkin_ws/devel/lib/kobuki_driver/kobuki_velocity_commands
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/kobuki_driver.pc

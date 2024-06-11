@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/libsensors_monitor/cmake/libsensors_monitorConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/libsensors_monitor/cmake/libsensors_monitorConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libsensors_monitor/libsensors_monitor
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/libsensors_monitor.pc

@@ -1,0 +1,6 @@
+kobuki_desktop/kobuki_dashboard
+/home/zaina/catkin_ws/devel/.private/kobuki_dashboard/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
+/home/zaina/catkin_ws/devel/.private/kobuki_dashboard/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake /home/zaina/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_dashboard/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake /home/zaina/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_dashboard/lib/pkgconfig/kobuki_dashboard.pc /home/zaina/catkin_ws/devel/lib/pkgconfig/kobuki_dashboard.pc
+/home/zaina/catkin_ws/devel/.private/kobuki_dashboard/lib/python3/dist-packages/kobuki_dashboard/__init__.py /home/zaina/catkin_ws/devel/lib/python3/dist-packages/kobuki_dashboard/__init__.py

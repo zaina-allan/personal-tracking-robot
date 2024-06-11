@@ -1,0 +1,6 @@
+kobuki/kobuki_controller_tutorial
+/home/zaina/catkin_ws/devel/.private/kobuki_controller_tutorial/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
+/home/zaina/catkin_ws/devel/.private/kobuki_controller_tutorial/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig-version.cmake /home/zaina/catkin_ws/devel/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig-version.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_controller_tutorial/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig.cmake /home/zaina/catkin_ws/devel/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_controller_tutorial/lib/libbump_blink_controller_nodelet.so /home/zaina/catkin_ws/devel/lib/libbump_blink_controller_nodelet.so
+/home/zaina/catkin_ws/devel/.private/kobuki_controller_tutorial/lib/pkgconfig/kobuki_controller_tutorial.pc /home/zaina/catkin_ws/devel/lib/pkgconfig/kobuki_controller_tutorial.pc

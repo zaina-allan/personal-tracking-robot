@@ -1,0 +1,2 @@
+Turtlebot_on_noetic/turtlebot_viz/turtlebot_viz
+/home/zaina/catkin_ws/devel/.private/turtlebot_viz/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

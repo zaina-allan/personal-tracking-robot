@@ -1,0 +1,5 @@
+kobuki_desktop/kobuki_gazebo
+/home/zaina/catkin_ws/devel/.private/kobuki_gazebo/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
+/home/zaina/catkin_ws/devel/.private/kobuki_gazebo/share/kobuki_gazebo/cmake/kobuki_gazeboConfig.cmake /home/zaina/catkin_ws/devel/share/kobuki_gazebo/cmake/kobuki_gazeboConfig.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_gazebo/share/kobuki_gazebo/cmake/kobuki_gazeboConfig-version.cmake /home/zaina/catkin_ws/devel/share/kobuki_gazebo/cmake/kobuki_gazeboConfig-version.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_gazebo/lib/pkgconfig/kobuki_gazebo.pc /home/zaina/catkin_ws/devel/lib/pkgconfig/kobuki_gazebo.pc

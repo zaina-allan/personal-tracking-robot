@@ -1,0 +1,19 @@
+Determining if the function strubded exists failed with the following output:
+Change Dir: /home/zaina/catkin_ws/build_isolated/csm/devel/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_50cb9/fast && /usr/bin/make -f CMakeFiles/cmTC_50cb9.dir/build.make CMakeFiles/cmTC_50cb9.dir/build
+make[1]: Entering directory '/home/zaina/catkin_ws/build_isolated/csm/devel/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_50cb9.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -I/usr/include  -I/usr/include/cairo -std=c99 -fPIC -ggdb -Wall -DCHECK_FUNCTION_EXISTS=strubded   -o CMakeFiles/cmTC_50cb9.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_50cb9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_50cb9.dir/link.txt --verbose=1
+/usr/bin/cc   -I/usr/include  -I/usr/include/cairo -std=c99 -fPIC -ggdb -Wall -DCHECK_FUNCTION_EXISTS=strubded    -rdynamic CMakeFiles/cmTC_50cb9.dir/CheckFunctionExists.c.o  -o cmTC_50cb9 
+/usr/bin/ld: CMakeFiles/cmTC_50cb9.dir/CheckFunctionExists.c.o: in function `main':
+/usr/share/cmake-3.16/Modules/CheckFunctionExists.c:17: undefined reference to `strubded'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_50cb9.dir/build.make:87: cmTC_50cb9] Error 1
+make[1]: Leaving directory '/home/zaina/catkin_ws/build_isolated/csm/devel/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_50cb9/fast] Error 2
+
+
+

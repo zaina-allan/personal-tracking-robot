@@ -1,0 +1,8 @@
+prefix=/home/zaina/catkin_ws/devel_isolated/ecl_errors
+
+Name: ecl_errors
+Description: Description of ecl_errors
+Version: 0.61.6
+Cflags: -I/home/zaina/catkin_ws/src/Turtlebot_on_noetic/ecl_lite/ecl_errors/include
+Libs: -L${prefix}/lib -lecl_errors
+Requires: 

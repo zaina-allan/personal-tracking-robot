@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_containers/cmake/ecl_containersConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_containers/cmake/ecl_containersConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_containers.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_containers/demo_container_formatters

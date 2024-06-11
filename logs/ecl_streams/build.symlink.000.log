@@ -1,0 +1,6 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_streams/cmake/ecl_streamsConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_streams/cmake/ecl_streamsConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_streams.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_streams.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_streams/demo_console_streams
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_streams/demo_log_streams

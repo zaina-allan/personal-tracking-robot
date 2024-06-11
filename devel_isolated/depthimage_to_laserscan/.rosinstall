@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zaina/catkin_ws/devel_isolated/depthimage_to_laserscan/setup.sh

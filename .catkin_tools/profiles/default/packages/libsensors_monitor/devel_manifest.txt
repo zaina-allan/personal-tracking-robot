@@ -1,0 +1,6 @@
+linux_peripheral_interfaces/libsensors_monitor
+/home/zaina/catkin_ws/devel/.private/libsensors_monitor/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
+/home/zaina/catkin_ws/devel/.private/libsensors_monitor/share/libsensors_monitor/cmake/libsensors_monitorConfig.cmake /home/zaina/catkin_ws/devel/share/libsensors_monitor/cmake/libsensors_monitorConfig.cmake
+/home/zaina/catkin_ws/devel/.private/libsensors_monitor/share/libsensors_monitor/cmake/libsensors_monitorConfig-version.cmake /home/zaina/catkin_ws/devel/share/libsensors_monitor/cmake/libsensors_monitorConfig-version.cmake
+/home/zaina/catkin_ws/devel/.private/libsensors_monitor/lib/libsensors_monitor/libsensors_monitor /home/zaina/catkin_ws/devel/lib/libsensors_monitor/libsensors_monitor
+/home/zaina/catkin_ws/devel/.private/libsensors_monitor/lib/pkgconfig/libsensors_monitor.pc /home/zaina/catkin_ws/devel/lib/pkgconfig/libsensors_monitor.pc

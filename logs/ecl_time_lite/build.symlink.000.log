@@ -1,0 +1,6 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_time_lite/cmake/ecl_time_liteConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_time_lite/cmake/ecl_time_liteConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_time_lite.so
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_time_lite/demo_time_functions
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_time_lite.pc
+Symlinking /home/zaina/catkin_ws/devel/include/ecl/time_lite/config.hpp

@@ -1,0 +1,3 @@
+[ 20%] Built target freenect_camera_gencfg
+[ 60%] Built target freenect_node
+[100%] Built target freenect_nodelet

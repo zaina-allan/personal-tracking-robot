@@ -1,0 +1,100 @@
+[0.019s] Invoking command in '/home/zaina/catkin_ws/build/usb_cam': /usr/bin/cmake /home/zaina/catkin_ws/src/usb_cam -DCMAKE_INSTALL_PREFIX=/home/zaina/catkin_ws/install/usb_cam
+[0.075s] -- The C compiler identification is GNU 9.4.0
+[0.138s] -- The CXX compiler identification is GNU 9.4.0
+[0.143s] -- Check for working C compiler: /usr/bin/cc
+[0.222s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.224s] -- Detecting C compiler ABI info
+[0.297s] -- Detecting C compiler ABI info - done
+[0.313s] -- Detecting C compile features
+[0.314s] -- Detecting C compile features - done
+[0.317s] -- Check for working CXX compiler: /usr/bin/c++
+[0.395s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.397s] -- Detecting CXX compiler ABI info
+[0.481s] -- Detecting CXX compiler ABI info - done
+[0.500s] -- Detecting CXX compile features
+[0.501s] -- Detecting CXX compile features - done
+[0.504s] -- Using CATKIN_DEVEL_PREFIX: /home/zaina/catkin_ws/build/usb_cam/devel
+[0.504s] -- Using CMAKE_PREFIX_PATH: /home/zaina/catkin_ws/devel;/opt/ros/noetic
+[0.504s] -- This workspace overlays: /home/zaina/catkin_ws/devel;/opt/ros/noetic
+[0.531s] -- Found PythonInterp: /home/zaina/catkin_ws/venv/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.531s] -- Using PYTHON_EXECUTABLE: /home/zaina/catkin_ws/venv/bin/python3
+[0.532s] -- Using Debian Python package layout
+[0.566s] -- Found PY_em: /home/zaina/catkin_ws/venv/lib/python3.8/site-packages/em.py  
+[0.566s] -- Using empy: /home/zaina/catkin_ws/venv/lib/python3.8/site-packages/em.py
+[0.741s] -- Using CATKIN_ENABLE_TESTING: ON
+[0.742s] -- Call enable_testing()
+[0.743s] -- Using CATKIN_TEST_RESULTS_DIR: /home/zaina/catkin_ws/build/usb_cam/test_results
+[1.100s] -- Forcing gtest/gmock from source, though one was otherwise available.
+[1.100s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.100s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.139s] -- Found PythonInterp: /home/zaina/catkin_ws/venv/bin/python3 (found version "3.8.10") 
+[1.141s] -- Found Threads: TRUE  
+[1.148s] -- Using Python nosetests: /usr/bin/nosetests3
+[1.246s] -- catkin 0.8.10
+[1.246s] -- BUILD_SHARED_LIBS is on
+[1.583s] -- Found OpenCV: /usr (found version "4.2.0") 
+[1.587s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[1.588s] -- Checking for module 'libavcodec'
+[1.612s] --   Found libavcodec, version 58.54.100
+[1.664s] -- Checking for module 'libavutil'
+[1.683s] --   Found libavutil, version 56.31.100
+[1.729s] -- Checking for module 'libswscale'
+[1.770s] --   Found libswscale, version 5.5.100
+[2.019s] -- Configuring done
+[2.107s] -- Generating done
+[2.113s] -- Build files have been written to: /home/zaina/catkin_ws/build/usb_cam
+[2.126s] Invoked command in '/home/zaina/catkin_ws/build/usb_cam' returned '0': /usr/bin/cmake /home/zaina/catkin_ws/src/usb_cam -DCMAKE_INSTALL_PREFIX=/home/zaina/catkin_ws/install/usb_cam
+[2.128s] Invoking command in '/home/zaina/catkin_ws/build/usb_cam': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8
+[2.166s] [35m[1mScanning dependencies of target usb_cam[0m
+[2.224s] [ 25%] [32mBuilding CXX object CMakeFiles/usb_cam.dir/src/usb_cam.cpp.o[0m
+[4.449s] [ 50%] [32m[1mLinking CXX shared library libusb_cam.so[0m
+[4.618s] [ 50%] Built target usb_cam
+[4.630s] [35m[1mScanning dependencies of target usb_cam_node[0m
+[4.683s] [ 75%] [32mBuilding CXX object CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o[0m
+[7.350s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:[m[K In constructor ‘[01m[Kusb_cam::UsbCamNode::UsbCamNode()[m[K’:
+[7.350s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:156:34:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kusb_cam::UsbCam::start(const char*, usb_cam::utils::io_method_t&, std::string&, int&, int&, int&)[m[K’
+[7.350s]   156 |       m_image_height, m_framerate[01;31m[K)[m[K;
+[7.350s]       |                                  [01;31m[K^[m[K
+[7.351s] In file included from [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:36[m[K:
+[7.351s] [01m[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid usb_cam::UsbCam::start()[m[K’
+[7.351s]   180 |   void [01;36m[Kstart[m[K();
+[7.351s]       |        [01;36m[K^~~~~[m[K
+[7.351s] [01m[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 6 provided
+[7.353s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:[m[K In member function ‘[01m[Kbool usb_cam::UsbCamNode::take_and_send_image()[m[K’:
+[7.353s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:172:43:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstamp[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.353s]   172 |     m_image.header.stamp.sec = new_image->[01;31m[Kstamp[m[K.tv_sec;
+[7.353s]       |                                           [01;31m[K^~~~~[m[K
+[7.353s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:173:44:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstamp[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.353s]   173 |     m_image.header.stamp.nsec = new_image->[01;31m[Kstamp[m[K.tv_nsec;
+[7.353s]       |                                            [01;31m[K^~~~~[m[K
+[7.353s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:63:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.353s]   176 |     if (m_image.data.size() != static_cast<size_t>(new_image->[01;31m[Kstep[m[K * new_image->height)) {
+[7.353s]       |                                                               [01;31m[K^~~~[m[K
+[7.353s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:81:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.353s]   176 |     if (m_image.data.size() != static_cast<size_t>(new_image->step * new_image->[01;31m[Kheight[m[K)) {
+[7.354s]       |                                                                                 [01;31m[K^~~~~~[m[K
+[7.354s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:177:34:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kwidth[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.354s]   177 |       m_image.width = new_image->[01;31m[Kwidth[m[K;
+[7.354s]       |                                  [01;31m[K^~~~~[m[K
+[7.354s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:178:35:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.354s]   178 |       m_image.height = new_image->[01;31m[Kheight[m[K;
+[7.354s]       |                                   [01;31m[K^~~~~~[m[K
+[7.354s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:179:37:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kencoding[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.354s]   179 |       m_image.encoding = new_image->[01;31m[Kencoding[m[K;
+[7.354s]       |                                     [01;31m[K^~~~~~~~[m[K
+[7.354s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:180:33:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.354s]   180 |       m_image.step = new_image->[01;31m[Kstep[m[K;
+[7.354s]       |                                 [01;31m[K^~~~[m[K
+[7.355s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:38:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kstep[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.355s]   181 |       m_image.data.resize(new_image->[01;31m[Kstep[m[K * new_image->height);
+[7.355s]       |                                      [01;31m[K^~~~[m[K
+[7.355s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:56:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kheight[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.355s]   181 |       m_image.data.resize(new_image->step * new_image->[01;31m[Kheight[m[K);
+[7.355s]       |                                                        [01;31m[K^~~~~~[m[K
+[7.355s] [01m[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:185:41:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kimage[m[K’ in ‘[01m[K* new_image[m[K’, which is of non-class type ‘[01m[Kchar[m[K’
+[7.355s]   185 |     memcpy(&m_image.data[0], new_image->[01;31m[Kimage[m[K, m_image.data.size());
+[7.355s]       |                                         [01;31m[K^~~~~[m[K
+[8.001s] make[2]: *** [CMakeFiles/usb_cam_node.dir/build.make:63: CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o] Error 1
+[8.001s] make[1]: *** [CMakeFiles/Makefile2:739: CMakeFiles/usb_cam_node.dir/all] Error 2
+[8.002s] make: *** [Makefile:141: all] Error 2
+[8.003s] Invoked command in '/home/zaina/catkin_ws/build/usb_cam' returned '2': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8

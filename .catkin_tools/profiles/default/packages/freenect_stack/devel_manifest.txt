@@ -1,0 +1,2 @@
+freenect_stack/freenect_stack
+/home/zaina/catkin_ws/devel/.private/freenect_stack/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

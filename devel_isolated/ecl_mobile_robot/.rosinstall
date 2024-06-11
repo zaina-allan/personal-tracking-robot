@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zaina/catkin_ws/devel_isolated/ecl_mobile_robot/setup.sh

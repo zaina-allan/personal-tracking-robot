@@ -1,0 +1,7 @@
+kobuki/kobuki_auto_docking
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig-version.cmake /home/zaina/catkin_ws/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig-version.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig.cmake /home/zaina/catkin_ws/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig.cmake
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/lib/libkobuki_auto_docking_nodelet.so /home/zaina/catkin_ws/devel/lib/libkobuki_auto_docking_nodelet.so
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/lib/libkobuki_auto_docking_ros.so /home/zaina/catkin_ws/devel/lib/libkobuki_auto_docking_ros.so
+/home/zaina/catkin_ws/devel/.private/kobuki_auto_docking/lib/pkgconfig/kobuki_auto_docking.pc /home/zaina/catkin_ws/devel/lib/pkgconfig/kobuki_auto_docking.pc

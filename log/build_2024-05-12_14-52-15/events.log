@@ -1,0 +1,291 @@
+[0.000000] (-) TimerEvent: {}
+[0.000213] (-) JobUnselected: {'identifier': 'ar_track_alvar'}
+[0.000313] (-) JobUnselected: {'identifier': 'ar_track_alvar_msgs'}
+[0.001295] (-) JobUnselected: {'identifier': 'ar_track_alvar_msgs'}
+[0.001391] (-) JobUnselected: {'identifier': 'depthimage_to_laserscan'}
+[0.001604] (-) JobUnselected: {'identifier': 'depthimage_to_laserscan'}
+[0.001662] (-) JobUnselected: {'identifier': 'ecl_build'}
+[0.001708] (-) JobUnselected: {'identifier': 'ecl_build'}
+[0.001797] (-) JobUnselected: {'identifier': 'ecl_command_line'}
+[0.001858] (-) JobUnselected: {'identifier': 'ecl_command_line'}
+[0.001884] (-) JobUnselected: {'identifier': 'ecl_concepts'}
+[0.001914] (-) JobUnselected: {'identifier': 'ecl_concepts'}
+[0.002028] (-) JobUnselected: {'identifier': 'ecl_config'}
+[0.002053] (-) JobUnselected: {'identifier': 'ecl_config'}
+[0.002082] (-) JobUnselected: {'identifier': 'ecl_console'}
+[0.002163] (-) JobUnselected: {'identifier': 'ecl_console'}
+[0.002220] (-) JobUnselected: {'identifier': 'ecl_containers'}
+[0.002245] (-) JobUnselected: {'identifier': 'ecl_containers'}
+[0.002275] (-) JobUnselected: {'identifier': 'ecl_converters'}
+[0.002370] (-) JobUnselected: {'identifier': 'ecl_converters'}
+[0.002395] (-) JobUnselected: {'identifier': 'ecl_converters_lite'}
+[0.002424] (-) JobUnselected: {'identifier': 'ecl_converters_lite'}
+[0.002455] (-) JobUnselected: {'identifier': 'ecl_core'}
+[0.002479] (-) JobUnselected: {'identifier': 'ecl_core'}
+[0.002501] (-) JobUnselected: {'identifier': 'ecl_core_apps'}
+[0.002687] (-) JobUnselected: {'identifier': 'ecl_core_apps'}
+[0.002723] (-) JobUnselected: {'identifier': 'ecl_devices'}
+[0.002842] (-) JobUnselected: {'identifier': 'ecl_devices'}
+[0.002869] (-) JobUnselected: {'identifier': 'ecl_eigen'}
+[0.002900] (-) JobUnselected: {'identifier': 'ecl_eigen'}
+[0.002931] (-) JobUnselected: {'identifier': 'ecl_errors'}
+[0.002955] (-) JobUnselected: {'identifier': 'ecl_errors'}
+[0.003139] (-) JobUnselected: {'identifier': 'ecl_exceptions'}
+[0.003284] (-) JobUnselected: {'identifier': 'ecl_exceptions'}
+[0.003310] (-) JobUnselected: {'identifier': 'ecl_filesystem'}
+[0.003340] (-) JobUnselected: {'identifier': 'ecl_filesystem'}
+[0.003371] (-) JobUnselected: {'identifier': 'ecl_formatters'}
+[0.003426] (-) JobUnselected: {'identifier': 'ecl_formatters'}
+[0.003789] (-) JobUnselected: {'identifier': 'ecl_geometry'}
+[0.003807] (-) JobUnselected: {'identifier': 'ecl_geometry'}
+[0.003926] (-) JobUnselected: {'identifier': 'ecl_io'}
+[0.003949] (-) JobUnselected: {'identifier': 'ecl_io'}
+[0.003978] (-) JobUnselected: {'identifier': 'ecl_ipc'}
+[0.004010] (-) JobUnselected: {'identifier': 'ecl_ipc'}
+[0.004033] (-) JobUnselected: {'identifier': 'ecl_license'}
+[0.004222] (-) JobUnselected: {'identifier': 'ecl_license'}
+[0.004415] (-) JobUnselected: {'identifier': 'ecl_linear_algebra'}
+[0.004440] (-) JobUnselected: {'identifier': 'ecl_linear_algebra'}
+[0.004474] (-) JobUnselected: {'identifier': 'ecl_lite'}
+[0.004497] (-) JobUnselected: {'identifier': 'ecl_lite'}
+[0.004565] (-) JobUnselected: {'identifier': 'ecl_math'}
+[0.004620] (-) JobUnselected: {'identifier': 'ecl_math'}
+[0.004643] (-) JobUnselected: {'identifier': 'ecl_mobile_robot'}
+[0.004672] (-) JobUnselected: {'identifier': 'ecl_mobile_robot'}
+[0.004777] (-) JobUnselected: {'identifier': 'ecl_mpl'}
+[0.004801] (-) JobUnselected: {'identifier': 'ecl_mpl'}
+[0.004829] (-) JobUnselected: {'identifier': 'ecl_navigation'}
+[0.004934] (-) JobUnselected: {'identifier': 'ecl_navigation'}
+[0.004988] (-) JobUnselected: {'identifier': 'ecl_sigslots'}
+[0.005011] (-) JobUnselected: {'identifier': 'ecl_sigslots'}
+[0.005042] (-) JobUnselected: {'identifier': 'ecl_sigslots_lite'}
+[0.005132] (-) JobUnselected: {'identifier': 'ecl_sigslots_lite'}
+[0.005155] (-) JobUnselected: {'identifier': 'ecl_statistics'}
+[0.005183] (-) JobUnselected: {'identifier': 'ecl_statistics'}
+[0.005212] (-) JobUnselected: {'identifier': 'ecl_streams'}
+[0.005235] (-) JobUnselected: {'identifier': 'ecl_streams'}
+[0.005536] (-) JobUnselected: {'identifier': 'ecl_threads'}
+[0.005578] (-) JobUnselected: {'identifier': 'ecl_threads'}
+[0.005951] (-) JobUnselected: {'identifier': 'ecl_time'}
+[0.005976] (-) JobUnselected: {'identifier': 'ecl_time'}
+[0.006419] (-) JobUnselected: {'identifier': 'ecl_time_lite'}
+[0.006977] (-) JobUnselected: {'identifier': 'ecl_time_lite'}
+[0.007056] (-) JobUnselected: {'identifier': 'ecl_tools'}
+[0.007111] (-) JobUnselected: {'identifier': 'ecl_tools'}
+[0.007172] (-) JobUnselected: {'identifier': 'ecl_type_traits'}
+[0.007380] (-) JobUnselected: {'identifier': 'ecl_type_traits'}
+[0.007441] (-) JobUnselected: {'identifier': 'ecl_utilities'}
+[0.007502] (-) JobUnselected: {'identifier': 'ecl_utilities'}
+[0.007683] (-) JobUnselected: {'identifier': 'freenect_camera'}
+[0.007723] (-) JobUnselected: {'identifier': 'freenect_launch'}
+[0.007779] (-) JobUnselected: {'identifier': 'freenect_stack'}
+[0.007815] (-) JobUnselected: {'identifier': 'kobuki'}
+[0.007845] (-) JobUnselected: {'identifier': 'kobuki'}
+[0.008112] (-) JobUnselected: {'identifier': 'kobuki_auto_docking'}
+[0.008156] (-) JobUnselected: {'identifier': 'kobuki_auto_docking'}
+[0.008211] (-) JobUnselected: {'identifier': 'kobuki_bumper2pc'}
+[0.008270] (-) JobUnselected: {'identifier': 'kobuki_bumper2pc'}
+[0.008313] (-) JobUnselected: {'identifier': 'kobuki_capabilities'}
+[0.008357] (-) JobUnselected: {'identifier': 'kobuki_capabilities'}
+[0.008399] (-) JobUnselected: {'identifier': 'kobuki_controller_tutorial'}
+[0.008478] (-) JobUnselected: {'identifier': 'kobuki_controller_tutorial'}
+[0.008614] (-) JobUnselected: {'identifier': 'kobuki_core'}
+[0.008660] (-) JobUnselected: {'identifier': 'kobuki_core'}
+[0.008706] (-) JobUnselected: {'identifier': 'kobuki_dashboard'}
+[0.008762] (-) JobUnselected: {'identifier': 'kobuki_dashboard'}
+[0.008808] (-) JobUnselected: {'identifier': 'kobuki_description'}
+[0.009205] (-) JobUnselected: {'identifier': 'kobuki_description'}
+[0.009268] (-) JobUnselected: {'identifier': 'kobuki_desktop'}
+[0.009309] (-) JobUnselected: {'identifier': 'kobuki_desktop'}
+[0.009350] (-) JobUnselected: {'identifier': 'kobuki_dock_drive'}
+[0.009390] (-) JobUnselected: {'identifier': 'kobuki_dock_drive'}
+[0.009428] (-) JobUnselected: {'identifier': 'kobuki_driver'}
+[0.009465] (-) JobUnselected: {'identifier': 'kobuki_driver'}
+[0.009503] (-) JobUnselected: {'identifier': 'kobuki_ftdi'}
+[0.009560] (-) JobUnselected: {'identifier': 'kobuki_ftdi'}
+[0.009599] (-) JobUnselected: {'identifier': 'kobuki_gazebo'}
+[0.009640] (-) JobUnselected: {'identifier': 'kobuki_gazebo'}
+[0.009795] (-) JobUnselected: {'identifier': 'kobuki_gazebo_plugins'}
+[0.009918] (-) JobUnselected: {'identifier': 'kobuki_gazebo_plugins'}
+[0.009961] (-) JobUnselected: {'identifier': 'kobuki_keyop'}
+[0.010011] (-) JobUnselected: {'identifier': 'kobuki_keyop'}
+[0.010049] (-) JobUnselected: {'identifier': 'kobuki_msgs'}
+[0.010257] (-) JobUnselected: {'identifier': 'kobuki_msgs'}
+[0.010294] (-) JobUnselected: {'identifier': 'kobuki_node'}
+[0.010433] (-) JobUnselected: {'identifier': 'kobuki_node'}
+[0.010482] (-) JobUnselected: {'identifier': 'kobuki_qtestsuite'}
+[0.010530] (-) JobUnselected: {'identifier': 'kobuki_qtestsuite'}
+[0.010569] (-) JobUnselected: {'identifier': 'kobuki_random_walker'}
+[0.010776] (-) JobUnselected: {'identifier': 'kobuki_random_walker'}
+[0.010962] (-) JobUnselected: {'identifier': 'kobuki_rapps'}
+[0.011317] (-) JobUnselected: {'identifier': 'kobuki_rapps'}
+[0.011518] (-) JobUnselected: {'identifier': 'kobuki_rviz_launchers'}
+[0.011567] (-) JobUnselected: {'identifier': 'kobuki_rviz_launchers'}
+[0.011612] (-) JobUnselected: {'identifier': 'kobuki_safety_controller'}
+[0.012198] (-) JobUnselected: {'identifier': 'kobuki_safety_controller'}
+[0.012283] (-) JobUnselected: {'identifier': 'kobuki_testsuite'}
+[0.012311] (-) JobUnselected: {'identifier': 'kobuki_testsuite'}
+[0.012336] (-) JobUnselected: {'identifier': 'laptop_battery_monitor'}
+[0.012435] (-) JobUnselected: {'identifier': 'libfreenect'}
+[0.012469] (-) JobUnselected: {'identifier': 'libsensors_monitor'}
+[0.012492] (-) JobUnselected: {'identifier': 'linux_peripheral_interfaces'}
+[0.012688] (-) JobUnselected: {'identifier': 'osrf_pycommon'}
+[0.012728] (-) JobUnselected: {'identifier': 'ros1_bridge'}
+[0.014031] (-) JobUnselected: {'identifier': 'rosserial'}
+[0.014108] (-) JobUnselected: {'identifier': 'rosserial_arduino'}
+[0.014136] (-) JobUnselected: {'identifier': 'rosserial_chibios'}
+[0.014159] (-) JobUnselected: {'identifier': 'rosserial_client'}
+[0.014184] (-) JobUnselected: {'identifier': 'rosserial_embeddedlinux'}
+[0.014209] (-) JobUnselected: {'identifier': 'rosserial_mbed'}
+[0.014244] (-) JobUnselected: {'identifier': 'rosserial_msgs'}
+[0.014269] (-) JobUnselected: {'identifier': 'rosserial_python'}
+[0.014292] (-) JobUnselected: {'identifier': 'rosserial_server'}
+[0.014318] (-) JobUnselected: {'identifier': 'rosserial_test'}
+[0.014344] (-) JobUnselected: {'identifier': 'rosserial_tivac'}
+[0.014369] (-) JobUnselected: {'identifier': 'rosserial_vex_cortex'}
+[0.014396] (-) JobUnselected: {'identifier': 'rosserial_vex_v5'}
+[0.014419] (-) JobUnselected: {'identifier': 'rosserial_windows'}
+[0.014442] (-) JobUnselected: {'identifier': 'rosserial_xbee'}
+[0.014467] (-) JobUnselected: {'identifier': 'turtlebot'}
+[0.014492] (-) JobUnselected: {'identifier': 'turtlebot'}
+[0.014518] (-) JobUnselected: {'identifier': 'turtlebot'}
+[0.014543] (-) JobUnselected: {'identifier': 'turtlebot_actions'}
+[0.014568] (-) JobUnselected: {'identifier': 'turtlebot_actions'}
+[0.014595] (-) JobUnselected: {'identifier': 'turtlebot_actions'}
+[0.014622] (-) JobUnselected: {'identifier': 'turtlebot_apps'}
+[0.014649] (-) JobUnselected: {'identifier': 'turtlebot_apps'}
+[0.014674] (-) JobUnselected: {'identifier': 'turtlebot_apps'}
+[0.014698] (-) JobUnselected: {'identifier': 'turtlebot_bringup'}
+[0.014719] (-) JobUnselected: {'identifier': 'turtlebot_bringup'}
+[0.014742] (-) JobUnselected: {'identifier': 'turtlebot_bringup'}
+[0.014764] (-) JobUnselected: {'identifier': 'turtlebot_calibration'}
+[0.014786] (-) JobUnselected: {'identifier': 'turtlebot_calibration'}
+[0.014808] (-) JobUnselected: {'identifier': 'turtlebot_calibration'}
+[0.014829] (-) JobUnselected: {'identifier': 'turtlebot_capabilities'}
+[0.014851] (-) JobUnselected: {'identifier': 'turtlebot_capabilities'}
+[0.014873] (-) JobUnselected: {'identifier': 'turtlebot_capabilities'}
+[0.014912] (-) JobUnselected: {'identifier': 'turtlebot_dashboard'}
+[0.015292] (-) JobUnselected: {'identifier': 'turtlebot_dashboard'}
+[0.015392] (-) JobUnselected: {'identifier': 'turtlebot_description'}
+[0.015421] (-) JobUnselected: {'identifier': 'turtlebot_description'}
+[0.015444] (-) JobUnselected: {'identifier': 'turtlebot_description'}
+[0.015485] (-) JobUnselected: {'identifier': 'turtlebot_follower'}
+[0.015504] (-) JobUnselected: {'identifier': 'turtlebot_follower'}
+[0.015523] (-) JobUnselected: {'identifier': 'turtlebot_follower'}
+[0.015544] (-) JobUnselected: {'identifier': 'turtlebot_gazebo'}
+[0.015564] (-) JobUnselected: {'identifier': 'turtlebot_gazebo'}
+[0.015584] (-) JobUnselected: {'identifier': 'turtlebot_interactive_markers'}
+[0.015603] (-) JobUnselected: {'identifier': 'turtlebot_interactive_markers'}
+[0.015623] (-) JobUnselected: {'identifier': 'turtlebot_msgs'}
+[0.015643] (-) JobUnselected: {'identifier': 'turtlebot_msgs'}
+[0.015662] (-) JobUnselected: {'identifier': 'turtlebot_navigation'}
+[0.015682] (-) JobUnselected: {'identifier': 'turtlebot_navigation'}
+[0.015702] (-) JobUnselected: {'identifier': 'turtlebot_navigation'}
+[0.015722] (-) JobUnselected: {'identifier': 'turtlebot_rapps'}
+[0.015743] (-) JobUnselected: {'identifier': 'turtlebot_rapps'}
+[0.015763] (-) JobUnselected: {'identifier': 'turtlebot_rapps'}
+[0.015783] (-) JobUnselected: {'identifier': 'turtlebot_rviz_launchers'}
+[0.015802] (-) JobUnselected: {'identifier': 'turtlebot_rviz_launchers'}
+[0.015822] (-) JobUnselected: {'identifier': 'turtlebot_simulator'}
+[0.015842] (-) JobUnselected: {'identifier': 'turtlebot_simulator'}
+[0.015862] (-) JobUnselected: {'identifier': 'turtlebot_stage'}
+[0.015883] (-) JobUnselected: {'identifier': 'turtlebot_stage'}
+[0.015902] (-) JobUnselected: {'identifier': 'turtlebot_stdr'}
+[0.016316] (-) JobUnselected: {'identifier': 'turtlebot_stdr'}
+[0.016401] (-) JobUnselected: {'identifier': 'turtlebot_teleop'}
+[0.016513] (-) JobUnselected: {'identifier': 'turtlebot_teleop'}
+[0.016563] (-) JobUnselected: {'identifier': 'turtlebot_teleop'}
+[0.016587] (-) JobUnselected: {'identifier': 'turtlebot_viz'}
+[0.016611] (-) JobUnselected: {'identifier': 'turtlebot_viz'}
+[0.016651] (-) JobUnselected: {'identifier': 'yocs_cmd_vel_mux'}
+[0.016687] (-) JobUnselected: {'identifier': 'yocs_cmd_vel_mux'}
+[0.016704] (-) JobUnselected: {'identifier': 'yocs_controllers'}
+[0.016722] (-) JobUnselected: {'identifier': 'yocs_controllers'}
+[0.016741] (-) JobUnselected: {'identifier': 'yocs_msgs'}
+[0.016760] (-) JobUnselected: {'identifier': 'yocs_msgs'}
+[0.016789] (usb_cam) JobQueued: {'identifier': 'usb_cam', 'dependencies': OrderedDict()}
+[0.016818] (usb_cam) JobStarted: {'identifier': 'usb_cam'}
+[0.018919] (usb_cam) JobProgress: {'identifier': 'usb_cam', 'progress': 'cmake'}
+[0.020906] (usb_cam) JobProgress: {'identifier': 'usb_cam', 'progress': 'build'}
+[0.020998] (usb_cam) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/zaina/catkin_ws/build/usb_cam', '--', '-j8', '-l8'], 'cwd': '/home/zaina/catkin_ws/build/usb_cam', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('QT_SCALE_FACTOR', '1'), ('LANGUAGE', 'en_US'), ('USER', 'zaina'), ('LC_TIME', 'ar_AE.UTF-8'), ('XDG_SEAT', 'seat0'), ('SSH_AGENT_PID', '1155'), ('ROS_PACKAGE_PATH', '/home/zaina/catkin_ws/src:/opt/ros/noetic/share'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('COMPIZ_CONFIG_PROFILE', 'mate'), ('ROS_ETC_DIR', '/opt/ros/noetic/etc/ros'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/zaina/catkin_ws/devel/lib:/opt/ros/noetic/lib'), ('HOME', '/home/zaina'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('OLDPWD', '/home/zaina/catkin_ws'), ('TERM_PROGRAM_VERSION', '1.88.1'), ('DESKTOP_SESSION', 'mate'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GTK_MODULES', 'appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module:appmenu-gtk-module'), ('XDG_SEAT_PATH', '/org/freedesktop/DisplayManager/Seat0'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('PS1', '\\[\x1b]633;A\x07\\](venv) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]'), ('LC_MONETARY', 'ar_AE.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '1697'), ('UBUNTU_MENUPROXY', '1'), ('QT_QPA_PLATFORMTHEME', 'gtk2'), ('ROS_DISTRO', 'noetic'), ('LOGNAME', 'zaina'), ('QT_AUTO_SCREEN_SCALE_FACTOR', '0'), ('_', '/home/zaina/catkin_ws/venv/bin/colcon'), ('ROS_VERSION', '1'), ('PKG_CONFIG_PATH', '/opt/ros/noetic/lib/pkgconfig'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('GTK_OVERLAY_SCROLLING', '0'), ('XDG_SESSION_ID', 'c2'), ('PATH', '/opt/ros/noetic/bin:/home/zaina/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash:/home/zaina/catkin_ws/venv/bin:/home/zaina/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash:/home/zaina/catkin_ws/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/zaina-VivoBook-ASUSLaptop-X509FJ-X509FJ:@/tmp/.ICE-unix/1097,unix/zaina-VivoBook-ASUSLaptop-X509FJ-X509FJ:/tmp/.ICE-unix/1097'), ('GDM_LANG', 'en_US'), ('PAPERSIZE', 'a4'), ('XDG_SESSION_PATH', '/org/freedesktop/DisplayManager/Session0'), ('LC_ADDRESS', 'ar_AE.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'MATE'), ('PYTHONSTARTUP', '/home/zaina/.vscode/extensions/ms-python.python-2024.4.1/python_files/pythonrc.py'), ('LC_TELEPHONE', 'ar_AE.UTF-8'), ('XDG_SESSION_DESKTOP', 'mate'), ('XAUTHORITY', '/home/zaina/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-25e63f11de.sock'), ('ROS_ROOT', '/opt/ros/noetic/share/ros'), ('TERM_PROGRAM', 'vscode'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/zaina/data'), ('XDG_GREETER_DATA_DIR', '/var/lib/lightdm-data/zaina'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'MATE'), ('SHELL', '/bin/bash'), ('LC_NAME', 'ar_AE.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('TURTLEBOT_3D_SENSOR', 'kinect'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('GDMSESSION', 'mate'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'ar_AE.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'ar_AE.UTF-8'), ('VIRTUAL_ENV', '/home/zaina/catkin_ws/venv'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('XDG_VTNR', '7'), ('PWD', '/home/zaina/catkin_ws/build/usb_cam'), ('TURTLEBOT3_MODEL', 'burger'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-mate:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/noetic/lib/python3/dist-packages'), ('LC_NUMERIC', 'ar_AE.UTF-8'), ('MATE_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('LC_PAPER', 'ar_AE.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/zaina/catkin_ws/devel:/opt/ros/noetic')]), 'shell': False}
+[0.081377] (usb_cam) StdoutLine: {'line': b'[ 50%] Built target usb_cam\n'}
+[0.099270] (-) TimerEvent: {}
+[0.102096] (usb_cam) StdoutLine: {'line': b'[ 75%] \x1b[32mBuilding CXX object CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o\x1b[0m\n'}
+[0.199391] (-) TimerEvent: {}
+[0.299722] (-) TimerEvent: {}
+[0.400061] (-) TimerEvent: {}
+[0.500432] (-) TimerEvent: {}
+[0.600775] (-) TimerEvent: {}
+[0.701165] (-) TimerEvent: {}
+[0.801549] (-) TimerEvent: {}
+[0.901906] (-) TimerEvent: {}
+[1.002287] (-) TimerEvent: {}
+[1.102667] (-) TimerEvent: {}
+[1.203054] (-) TimerEvent: {}
+[1.303426] (-) TimerEvent: {}
+[1.403812] (-) TimerEvent: {}
+[1.504192] (-) TimerEvent: {}
+[1.604573] (-) TimerEvent: {}
+[1.704958] (-) TimerEvent: {}
+[1.805340] (-) TimerEvent: {}
+[1.905718] (-) TimerEvent: {}
+[2.006094] (-) TimerEvent: {}
+[2.106482] (-) TimerEvent: {}
+[2.206791] (-) TimerEvent: {}
+[2.307192] (-) TimerEvent: {}
+[2.360056] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[Kusb_cam::UsbCamNode::UsbCamNode()\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[2.360301] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:156:34:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kno matching function for call to \xe2\x80\x98\x1b[01m\x1b[Kusb_cam::UsbCam::start(const char*, usb_cam::utils::io_method_t&, std::string&, int&, int&, int&)\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.360417] (usb_cam) StderrLine: {'line': b'  156 |       m_image_height, m_framerate\x1b[01;31m\x1b[K)\x1b[m\x1b[K;\n'}
+[2.360513] (usb_cam) StderrLine: {'line': b'      |                                  \x1b[01;31m\x1b[K^\x1b[m\x1b[K\n'}
+[2.360604] (usb_cam) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:36\x1b[m\x1b[K:\n'}
+[2.360695] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Kvoid usb_cam::UsbCam::start()\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.360786] (usb_cam) StderrLine: {'line': b'  180 |   void \x1b[01;36m\x1b[Kstart\x1b[m\x1b[K();\n'}
+[2.360872] (usb_cam) StderrLine: {'line': b'      |        \x1b[01;36m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[2.360957] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/include/usb_cam/usb_cam.hpp:180:8:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  candidate expects 0 arguments, 6 provided\n'}
+[2.362169] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kbool usb_cam::UsbCamNode::take_and_send_image()\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[2.362435] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:172:43:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kstamp\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.362542] (usb_cam) StderrLine: {'line': b'  172 |     m_image.header.stamp.sec = new_image->\x1b[01;31m\x1b[Kstamp\x1b[m\x1b[K.tv_sec;\n'}
+[2.362638] (usb_cam) StderrLine: {'line': b'      |                                           \x1b[01;31m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[2.362730] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:173:44:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kstamp\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.362823] (usb_cam) StderrLine: {'line': b'  173 |     m_image.header.stamp.nsec = new_image->\x1b[01;31m\x1b[Kstamp\x1b[m\x1b[K.tv_nsec;\n'}
+[2.362913] (usb_cam) StderrLine: {'line': b'      |                                            \x1b[01;31m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[2.363002] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:63:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kstep\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.363093] (usb_cam) StderrLine: {'line': b'  176 |     if (m_image.data.size() != static_cast<size_t>(new_image->\x1b[01;31m\x1b[Kstep\x1b[m\x1b[K * new_image->height)) {\n'}
+[2.363225] (usb_cam) StderrLine: {'line': b'      |                                                               \x1b[01;31m\x1b[K^~~~\x1b[m\x1b[K\n'}
+[2.363338] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:176:81:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kheight\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.363433] (usb_cam) StderrLine: {'line': b'  176 |     if (m_image.data.size() != static_cast<size_t>(new_image->step * new_image->\x1b[01;31m\x1b[Kheight\x1b[m\x1b[K)) {\n'}
+[2.363519] (usb_cam) StderrLine: {'line': b'      |                                                                                 \x1b[01;31m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[2.363603] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:177:34:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kwidth\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.363692] (usb_cam) StderrLine: {'line': b'  177 |       m_image.width = new_image->\x1b[01;31m\x1b[Kwidth\x1b[m\x1b[K;\n'}
+[2.363777] (usb_cam) StderrLine: {'line': b'      |                                  \x1b[01;31m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[2.363862] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:178:35:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kheight\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.363962] (usb_cam) StderrLine: {'line': b'  178 |       m_image.height = new_image->\x1b[01;31m\x1b[Kheight\x1b[m\x1b[K;\n'}
+[2.364037] (usb_cam) StderrLine: {'line': b'      |                                   \x1b[01;31m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[2.364115] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:179:37:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kencoding\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.364195] (usb_cam) StderrLine: {'line': b'  179 |       m_image.encoding = new_image->\x1b[01;31m\x1b[Kencoding\x1b[m\x1b[K;\n'}
+[2.364267] (usb_cam) StderrLine: {'line': b'      |                                     \x1b[01;31m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[2.364345] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:180:33:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kstep\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.364427] (usb_cam) StderrLine: {'line': b'  180 |       m_image.step = new_image->\x1b[01;31m\x1b[Kstep\x1b[m\x1b[K;\n'}
+[2.364501] (usb_cam) StderrLine: {'line': b'      |                                 \x1b[01;31m\x1b[K^~~~\x1b[m\x1b[K\n'}
+[2.364574] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:38:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kstep\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.364649] (usb_cam) StderrLine: {'line': b'  181 |       m_image.data.resize(new_image->\x1b[01;31m\x1b[Kstep\x1b[m\x1b[K * new_image->height);\n'}
+[2.364723] (usb_cam) StderrLine: {'line': b'      |                                      \x1b[01;31m\x1b[K^~~~\x1b[m\x1b[K\n'}
+[2.364797] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:181:56:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kheight\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.364873] (usb_cam) StderrLine: {'line': b'  181 |       m_image.data.resize(new_image->step * new_image->\x1b[01;31m\x1b[Kheight\x1b[m\x1b[K);\n'}
+[2.364951] (usb_cam) StderrLine: {'line': b'      |                                                        \x1b[01;31m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[2.365023] (usb_cam) StderrLine: {'line': b'\x1b[01m\x1b[K/home/zaina/catkin_ws/src/usb_cam/src/ros1/usb_cam_node.cpp:185:41:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Krequest for member \xe2\x80\x98\x1b[01m\x1b[Kimage\x1b[m\x1b[K\xe2\x80\x99 in \xe2\x80\x98\x1b[01m\x1b[K* new_image\x1b[m\x1b[K\xe2\x80\x99, which is of non-class type \xe2\x80\x98\x1b[01m\x1b[Kchar\x1b[m\x1b[K\xe2\x80\x99\n'}
+[2.365098] (usb_cam) StderrLine: {'line': b'  185 |     memcpy(&m_image.data[0], new_image->\x1b[01;31m\x1b[Kimage\x1b[m\x1b[K, m_image.data.size());\n'}
+[2.365172] (usb_cam) StderrLine: {'line': b'      |                                         \x1b[01;31m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[2.407338] (-) TimerEvent: {}
+[2.507722] (-) TimerEvent: {}
+[2.608102] (-) TimerEvent: {}
+[2.708449] (-) TimerEvent: {}
+[2.808806] (-) TimerEvent: {}
+[2.909192] (-) TimerEvent: {}
+[2.996032] (usb_cam) StderrLine: {'line': b'make[2]: *** [CMakeFiles/usb_cam_node.dir/build.make:63: CMakeFiles/usb_cam_node.dir/src/ros1/usb_cam_node.cpp.o] Error 1\n'}
+[2.996406] (usb_cam) StderrLine: {'line': b'make[1]: *** [CMakeFiles/Makefile2:739: CMakeFiles/usb_cam_node.dir/all] Error 2\n'}
+[2.996723] (usb_cam) StderrLine: {'line': b'make: *** [Makefile:141: all] Error 2\n'}
+[2.999344] (usb_cam) CommandEnded: {'returncode': 2}
+[3.009349] (-) TimerEvent: {}
+[3.061214] (usb_cam) JobEnded: {'identifier': 'usb_cam', 'rc': 2}
+[3.072157] (-) EventReactorShutdown: {}

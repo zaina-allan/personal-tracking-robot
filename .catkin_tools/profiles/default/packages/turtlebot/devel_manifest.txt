@@ -1,0 +1,2 @@
+turtlebot/turtlebot
+/home/zaina/catkin_ws/devel/.private/turtlebot/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

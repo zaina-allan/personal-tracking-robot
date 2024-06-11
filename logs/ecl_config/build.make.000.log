@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target ecl_detect_posix[0m
+[ 25%] [32mBuilding CXX object src/utilities/CMakeFiles/ecl_detect_posix.dir/detect_posix.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/zaina/catkin_ws/devel/.private/ecl_config/bin/ecl_detect_posix[0m
+[ 50%] Built target ecl_detect_posix
+[35m[1mScanning dependencies of target ecl_detect_endian[0m
+[ 75%] [32mBuilding CXX object src/utilities/CMakeFiles/ecl_detect_endian.dir/detect_endian.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/zaina/catkin_ws/devel/.private/ecl_config/bin/ecl_detect_endian[0m
+[100%] Built target ecl_detect_endian

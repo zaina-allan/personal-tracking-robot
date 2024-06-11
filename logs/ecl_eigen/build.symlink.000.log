@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_eigen/cmake/ecl_eigenConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_eigen/cmake/ecl_eigenConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_eigen.pc
+Symlinking /home/zaina/catkin_ws/devel/include/ecl/eigen.hpp

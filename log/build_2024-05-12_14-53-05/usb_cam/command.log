@@ -1,0 +1,2 @@
+Invoking command in '/home/zaina/catkin_ws/build/usb_cam': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8
+Invoked command in '/home/zaina/catkin_ws/build/usb_cam' returned '2': /usr/bin/cmake --build /home/zaina/catkin_ws/build/usb_cam -- -j8 -l8

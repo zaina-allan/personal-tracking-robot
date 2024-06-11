@@ -1,0 +1,6 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_threads/cmake/ecl_threadsConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_threads/cmake/ecl_threadsConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/libecl_threads.so
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_threads.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_threads/demo_thread
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_threads/demo_mutex

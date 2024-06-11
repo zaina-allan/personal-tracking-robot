@@ -1,0 +1,2 @@
+rosserial/rosserial
+/home/zaina/catkin_ws/devel/.private/rosserial/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock

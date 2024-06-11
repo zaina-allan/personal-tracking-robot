@@ -1,0 +1,5 @@
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_sigslots/cmake/ecl_sigslotsConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/ecl_sigslots/cmake/ecl_sigslotsConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_sigslots/demo_sigslots
+Symlinking /home/zaina/catkin_ws/devel/lib/ecl_sigslots/demo_sigslots_manager
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/ecl_sigslots.pc

@@ -1,0 +1,4 @@
+Symlinking /home/zaina/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/turtlebot_bringup.pc
+Symlinking /home/zaina/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot.sh

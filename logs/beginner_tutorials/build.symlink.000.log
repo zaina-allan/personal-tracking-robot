@@ -1,0 +1,6 @@
+Symlinking /home/zaina/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+Symlinking /home/zaina/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+Symlinking /home/zaina/catkin_ws/devel/lib/pkgconfig/beginner_tutorials.pc
+Symlinking /home/zaina/catkin_ws/devel/lib/beginner_tutorials/fakeLaserScan
+Symlinking /home/zaina/catkin_ws/devel/lib/beginner_tutorials/listener
+Symlinking /home/zaina/catkin_ws/devel/lib/beginner_tutorials/talker

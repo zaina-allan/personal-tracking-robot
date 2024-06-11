@@ -1,0 +1,2 @@
+Turtlebot_on_noetic/ecl_tools/ecl_tools
+/home/zaina/catkin_ws/devel/.private/ecl_tools/cmake.lock /home/zaina/catkin_ws/devel/./cmake.lock
